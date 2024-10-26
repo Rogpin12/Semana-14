@@ -8,3 +8,6 @@
 
 --git rebase: Mueve o reaplica una secuencia de commits a una nueva base. Esto reorganiza el historial para hacerlo más lineal y limpio, manteniendo una estructura más clara cuando se integran cambios.
 ![CAPTURA GIT](https://github.com/user-attachments/assets/403bb294-dc33-4449-8800-0f3bdcd71f21)
+
+
+(https://drive.google.com/drive/folders/11fKZjnsGeiEmZrRvodusiW5yo71cqPrX)
